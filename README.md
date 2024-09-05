@@ -1,9 +1,9 @@
 # Adaptive-AUTOSAR
 ![example workflow](https://github.com/langroodi/Adaptive-AUTOSAR/actions/workflows/cmake.yml/badge.svg)
 
-Adaptive AUTOSAR is a simulated _Adaptive Platform_ environment over Linux defined by [AUTOSAR](https://www.autosar.org/standards/adaptive-platform/). The goal of this project is to implement the interfaces defined by the standard for educational purposes. For more information, please refer to [the project Wiki](https://github.com/langroodi/Adaptive-AUTOSAR/wiki).
+Adaptive AUTOSAR is a simulated _Adaptive Platform_ environment over Linux defined by [AUTOSAR](https://www.autosar.org/standards/adaptive-platform/). The goal of this project is to implement the interfaces defined by the standard for educational purposes. For more information, please refer to [the project Wiki](https://github.com/sidharthkumar3839/Adaptive_AUTOSAR_platform_environment/blob/main/README.md).
 
-![Simulation flow diagram](https://github.com/langroodi/Adaptive-AUTOSAR/blob/master/doc/simulation_flow_diagram.png)
+![Simulation flow diagram](https://github.com/sidharthkumar3839/Adaptive_AUTOSAR_platform_environment/blob/main/doc/simulation_flow_diagram.png).
 
 ## Dependecies
 
