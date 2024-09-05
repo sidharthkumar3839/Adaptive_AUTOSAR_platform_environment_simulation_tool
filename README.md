@@ -1,0 +1,1 @@
+# Adaptive_AUTOSAR_platform_environment
